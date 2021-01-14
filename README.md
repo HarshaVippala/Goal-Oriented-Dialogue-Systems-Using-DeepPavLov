@@ -1,1 +1,3 @@
 # Goal-Oriented-Dialogue-Systems-Using-DeepPavLov
+
+This project is based on building a goal oriented dialogue system(Conversational AI) for restaurent booking using DeepPavLov framework.The chatbot suggests restaurents based on the type of food the user wants to eat,price range and provides the details about the restaurent.DSTC-2(Dialogue state Tracking Challenge 2)dataset has been used to train the model.The chatbot is built on DeepPavLov which is an open source conversational AI library built on tensorflow and keras.Deepapvlov is used for developing chatbots and complex conversartional systems.We will try to undertand the process involved in collecting information from the user, processing and generating the response by the system.
